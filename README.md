@@ -1,7 +1,7 @@
 # Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transactions
 
 
-## Abstract
+### Abstract
 
 In Ethereum, private transactions are typically more profitable but
 can sometimes be leaked into the public network before on-chain
@@ -26,7 +26,7 @@ into the economics of exploiting private transactions, potential
 vulnerabilities, and consensus security, laying the groundwork for
 future research and risk mitigation
 
-## Private Transactions Data
+### Private Transactions Data
 
 
 We got the privatex transactions from [mempool-data-program](https://docs.blocknative.com/mempool-data-program) of blocknative.Thanks to them for providing the data to the public!
@@ -34,7 +34,7 @@ This collection contains over 8TB of archive data representing more than 16 bill
 This dataset covers major scenarios the network has encountered over the years, including massive surges in traffic, huge gas spikes, bidding wars, the launch of MEV-boost, the price of ETH collapsing, EIP-1559, Black Thursday, and major hacks.
 
 
-#### MEV Data
+### MEV Data
 We obtain the MEV dataset from the [ZeroMEV API](https://data.zeromev.org/docs/).The MEV  types are as follows:
 
 -> arb: An arbitrage transaction allowing the extractor to profit from price discrepancies between exchanges.
@@ -45,5 +45,5 @@ We obtain the MEV dataset from the [ZeroMEV API](https://data.zeromev.org/docs/)
 -> swap: Swaps are included to provide volume data for non-MEV transactions.
 
 
-#### Block/Slot Data
+### Block/Slot Data
 We acquire fork blocks, including votes, block hashes, proposer,etc., from the [Beacon Chain API](https://beaconcha.in/).
