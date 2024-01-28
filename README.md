@@ -37,12 +37,12 @@ This dataset covers major scenarios the network has encountered over the years, 
 ### MEV Data
 We obtain the MEV dataset from the [ZeroMEV API](https://data.zeromev.org/docs/).The MEV  types are as follows:
 
--> arb: An arbitrage transaction allowing the extractor to profit from price discrepancies between exchanges.
--> frontrun: The frontrun transaction in a sandwich. This initiates the attack and moves the price against the victim.
--> sandwich: A victim transaction in a sandwich. There can be one or more of these per attack.
--> backrun: The backrun in a sandwich, allowing the attacker to close their position and extract a profit.
--> liquid: Refers to a liquidation event in a DeFi lending protocol.
--> swap: Swaps are included to provide volume data for non-MEV transactions.
+>- arb: An arbitrage transaction allowing the extractor to profit from price discrepancies between exchanges.
+>- frontrun: The frontrun transaction in a sandwich. This initiates the attack and moves the price against the victim.
+>- sandwich: A victim transaction in a sandwich. There can be one or more of these per attack.
+>- backrun: The backrun in a sandwich, allowing the attacker to close their position and extract a profit.
+>- liquid: Refers to a liquidation event in a DeFi lending protocol.
+>- swap: Swaps are included to provide volume data for non-MEV transactions.
 
 
 ### Block/Slot Data
