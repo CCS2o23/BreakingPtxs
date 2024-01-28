@@ -29,7 +29,7 @@ future research and risk mitigation
 ### Private Transactions Data
 
 
-We got the privatex transactions from [mempool-data-program](https://docs.blocknative.com/mempool-data-program) of blocknative.Thanks to them for providing the data to the public!
+We got the privatex transactions from [mempool-data-program](https://docs.blocknative.com/mempool-data-program) of blocknative.It is accessible to the public.
 This collection contains over 8TB of archive data representing more than 16 billion transaction detection events since November 1st, 2019. 
 This dataset covers major scenarios the network has encountered over the years, including massive surges in traffic, huge gas spikes, bidding wars, the launch of MEV-boost, the price of ETH collapsing, EIP-1559, Black Thursday, and major hacks.
 
