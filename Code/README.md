@@ -1,7 +1,7 @@
 # analysis code
 
 **Data collection**
->-GetTx.sh & Decompress.sh: get the dataset from blocknative and decompress.
+>- GetTx.sh & Decompress.sh: get the dataset from blocknative and decompress.
 
 
 **Attack Success Rate Calculation:**
