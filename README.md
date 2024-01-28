@@ -46,4 +46,4 @@ We obtain the MEV dataset from the [ZeroMEV API](https://data.zeromev.org/docs/)
 
 
 ### Block/Slot Data
-We acquire fork blocks, including votes, block hashes, proposer,etc., from the [Beacon Chain API](https://beaconcha.in/).
+We acquire fork blocks, including votes, block hashes, proposer,etc., from the [Beacon Chain API](https://beaconcha.in/) & [Quicknode](https://www.quicknode.com/docs/ethereum).
