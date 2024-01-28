@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the start and end dates
-START_DATE="20220103"
+START_DATE="20220101"
 END_DATE="20231231"
 
 DOMAIN="https://archive.blocknative.com/"
