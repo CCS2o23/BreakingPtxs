@@ -2,6 +2,7 @@
 
 **Data collection**
 >- GetTx.sh & Decompress.sh: get the dataset from blocknative and decompress.
+>- Zeromev.py: query the mev txs form zeromev API.
 
 
 **Attack Success Rate Calculation:**
