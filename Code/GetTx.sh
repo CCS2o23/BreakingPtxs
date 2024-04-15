@@ -87,4 +87,4 @@ while [[ "$CURRENT_DATE" != $(increment_date "$END_DATE") ]]; do
 done
 
 echo "Downloaded $SUCCESSFUL_DOWNLOADS files successfully."
-echo "Failed to download $FAILED_DOWNLOADS files. Check $ERROR_LOG for details."
+echo "Failed to download $FAILED_DOWNLOADS files. Check $ERROR_LOG for details...."
