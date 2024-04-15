@@ -4,7 +4,7 @@ import math
 
 N = 28224
 C = 2400
-# for attacks without proposer boost 
+# for attacks without proposer boost.... 
 # for p in [0.01, 0.02, 0.03, 0.04, 0.05]:
 
 # for attacks with proposer boost 
