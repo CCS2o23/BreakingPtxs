@@ -6,7 +6,7 @@ import random
 import os
 import sys
 
-# # , "celsius": 0.0075, "whale-0xeab8": 0.0059
+# # , "celsius": 0.0075, "whale-0xeab8": 0.0059...
 # # from https://beaconcha.in/pools - July 14, 2023
 # top_10 = {"lido": 0.1919, "coinbase": 0.0609, "rocketpool": 0.031, "binance": 0.031, "kraken": 0.0242, "staked.us": 0.0181,
 #           "whale-0x5d7": 0.0159, "bitcoin": 0.0135, "stakefish": 0.0112, "figment": 0.0079}
