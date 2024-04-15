@@ -3,28 +3,7 @@
 
 ### Abstract
 
-In Ethereum, private transactions are typically more profitable but
-can sometimes be leaked into the public network before on-chain
-posting. Motivated by the huge profits of these private transactions,
-we propose reorganization attacks, enabling malicious validators to
-actively leak private transactions for profits. While prior research
-on reorganization attacks has focused on consensus security, our
-work is the first study shedding light on the economic implications
-of exploiting private transactions. Through theoretical analysis and
-extensive simulations, we confirm the effectiveness of our attacks.
-Additionally, we comprehensively measure real-world datasets
-spanning two years from 2022 to 2023 consisting of 36,777,863
-private transactions for profit analysis, uncovering that the most
-lucrative private transactions are often tied to Maximum Extractable
-Value (MEV) and Decentralized Finance (DeFi) incidents. We further
-verify the practicability and feasibility of our attacks by evaluating
-real-world cases that align with attack patterns. We also compare
-our attacks in both Proof-of-Work (PoW) and Proof-of-Stake (PoS)
-Ethereum, revealing that the latter are virtually risk-free due to
-predictable validators’ duties. Our findings offer valuable insights
-into the economics of exploiting private transactions, potential
-vulnerabilities, and consensus security, laying the groundwork for
-future research and risk mitigation
+In Ethereum, private transactions are designed to circumvent the public network, but they can sometimes be leaked into the public network before on-chain posting. Motivated by the huge profits of these private transactions, we propose reorganization attacks in the current Proof-of-Stake (PoS) consensus mechanism, enabling malicious validators to actively leak private transactions for profits. While prior research on reorganization attacks has focused on consensus security, our work is the \textit{first} study shedding light on the economic implications of exploiting private transactions. Through theoretical analysis and extensive simulations, we confirm the effectiveness of our attacks. Additionally, we comprehensively examine real-world datasets covering 30,062,232 private transactions from September 15, 2022 to Decemeber 31, 2023 for profit analysis, uncovering that the most lucrative private transactions are often tied to Maximum Extractable Value (MEV). To further bolster the practicability and feasibility of our attacks, we scrutinize real-world cases aligning with our attack patterns. We find that attacks are risk-free due to the predictability of validators' duties. Our findings offer valuable insights into the economics of exploiting private transactions, potential vulnerabilities, and consensus security, laying the foundation for future research.
 
 ### Private Transactions Data
 
