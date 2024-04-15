@@ -3,7 +3,7 @@
 # Directory containing the .csv.gz files
 DIRECTORY="./"
 
-# Change to the directory
+# Change to the directory.
 cd "$DIRECTORY"
 
 # Loop through all .csv.gz files and decompress them
