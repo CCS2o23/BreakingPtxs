@@ -1,4 +1,4 @@
-#[ACSAC'24 Paper]Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transactions
+# [ACSAC'24 Paper]Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transactions
 
 
 ### Abstract
